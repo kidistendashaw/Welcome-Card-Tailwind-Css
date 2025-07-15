@@ -7,6 +7,11 @@ const pageColors = [
   "bg-gray-300",
   "bg-yellow-200",
   "bg-purple-200",
+  "bg-cyan-200",
+  "bg-orange-200",
+  "bg-lime-200",
+  "bg-teal-200",
+  "bg-indigo-200",
 ];
 
 export default function App() {
